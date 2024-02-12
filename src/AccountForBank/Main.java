@@ -27,8 +27,9 @@ Nav operations;
 */
 public class Main {
     public static void bracket(){
-        System.out.println("-------------------------------------");
         // Fast print method. To clear up confusion
+        System.out.println("-------------------------------------");
+        
     }
     public static void main(String[] args) {
         System.out.println("___Patkia+ Banka hesap olustuma paneli___");
